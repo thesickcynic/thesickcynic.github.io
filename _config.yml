@@ -3,14 +3,14 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Achintya Sharma
+#title: Senior Network System Administrator
+email: hello@achintya.tech
+website: www.achintya.tech
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  thesickcynic
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
